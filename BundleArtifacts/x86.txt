@@ -1,0 +1,2 @@
+MainPackage=C:\Users\meshm\source\repos\HVECPlayer\bin\x86\Release\HVECPlayer_1.2.2.0_x86.msix
+SymbolPackage=C:\Users\meshm\source\repos\HVECPlayer\obj\x86\Release\Symbols\HVECPlayer_1.2.2.0_x86.appxsym
